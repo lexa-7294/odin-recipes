@@ -5,6 +5,9 @@ I am aware that the honeymoon phase will pass and the despair of the reality wil
 So, I have 3 or 4 days since I started and I do consider that I've learned quite a lot of cool stuff. 
 
 <p>I do genuinely believe that programming is some sort of <em>sorcery</em>, at least at this level.</p>
+<img
+src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MG5hdzY2M2FuZm9nYWFwa3JlMmhpZXZqZGJibWU1MnAxaGl0aml6aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a2euXnuLIgVQA/giphy.gif"
+>
 
 Things that I've learned: 
 <ul>
