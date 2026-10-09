@@ -14,6 +14,6 @@ Things that I've learned:
         <li> to CREATE from nothing a website with text, links and images ( I like GIFS )</li>
         <li> a lot more that I don't know how to describe in my words...</li>
 </ul>
-That's it, I believe!
-Thanks for reading,
-Lexa
+<p>That's it, I believe!</p>
+<p>Thanks for reading,</p>
+<p>Lexa</p>
