@@ -1,19 +1,19 @@
 body{
-    background-color: rgb(247, 243, 233);
+    background-color: rgb(254, 245, 254);
 }
-.container{
-    background-color: rgb(245, 182, 245);
+.heading-container{
+    background-color: rgb(249, 204, 249);
     width: 0 auto;
     height: 150px;
     margin: 10px;
     padding: 25px;
-    border: 10px ridge rgb(233, 227, 234);
+    border: 10px outset rgb(215, 184, 245);
 
 }
 
 .heading{
     color: rgb(210, 1, 210);
-    background-color: rgb(251, 240, 251);
+    background-color: rgb(250, 241, 250);
     width: 700px;
     margin: 0 auto;
     text-align: center;
@@ -21,9 +21,22 @@ body{
     padding: 10px;
     font-family:'Times New Roman', Times, serif;
     margin-top: 10px;
-    border-radius: 40px 10px;
-    border: dotted;
+    border-radius: 40px 0px;
+    border: solid;
     border-width: 2px 5px;
-    border-color: rgb(129, 12, 238);
+    border-color: rgb(210, 1, 210);
+    box-shadow: 3px 3px 9px gray;
+}
+
+p{
+    display: inline-block;
+    background-color: rgb(249, 204, 249);
+    width: 0 auto;
+    height: 0 auto;
+    margin: 33px;
+    padding: 25px;
+    border: 5px outset rgb(215, 184, 245);
+    border-radius: 40px 0px;
+    text-align: center;
     box-shadow: 3px 3px 9px gray;
 }
