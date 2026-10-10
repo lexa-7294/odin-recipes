@@ -1,42 +1,108 @@
 body{
-    background-color: rgb(254, 245, 254);
-}
-.heading-container{
-    background-color: rgb(249, 204, 249);
-    width: 0 auto;
-    height: 150px;
-    margin: 10px;
-    padding: 25px;
-    border: 10px outset rgb(215, 184, 245);
+    background-color: rgb(241, 210, 243);
+    .home-page-button{
+        display: inline-block;
+        padding: 10px;
+        border-radius: 40px 40px;
+        border: outset;
+        border-width: 2px 5px;
+        border-color: rgb(210, 1, 210);
+        box-shadow: 3px 3px 9px gray;
+    }  
 
+    .heading-recipe-pages{
+        color: rgb(210, 1, 210);
+        background-color: rgb(250, 241, 250);
+        width: 500px;
+        margin: 0 auto;
+        text-align: center;
+        font-size: 50px;
+        padding: 10px;
+        font-family:'Times New Roman', Times, serif;
+        margin-top: 10px;
+        border-radius: 40px 0px;
+        border: solid;
+        border-width: 2px 5px;
+        border-color: rgb(210, 1, 210);
+        box-shadow: 3px 3px 9px gray;
+    }
+
+
+
+
+
+
+
+    
 }
 
-.heading{
-    color: rgb(210, 1, 210);
-    background-color: rgb(250, 241, 250);
-    width: 700px;
-    margin: 0 auto;
-    text-align: center;
-    font-size: 100px;
-    padding: 10px;
-    font-family:'Times New Roman', Times, serif;
-    margin-top: 10px;
-    border-radius: 40px 0px;
-    border: solid;
-    border-width: 2px 5px;
-    border-color: rgb(210, 1, 210);
-    box-shadow: 3px 3px 9px gray;
+
+
+
+
+
+
+.home-page{
+
+    .heading-container{
+        background-color: rgb(249, 204, 249);
+        width: 1000px;
+        height: 150px;
+        margin: 10px;
+        padding: 25px;
+        border: 10px outset rgb(215, 184, 245);
+    }
+
+    .heading{
+        color: rgb(210, 1, 210);
+        background-color: rgb(250, 241, 250);
+        width: 700px;
+        margin: 0 auto;
+        text-align: center;
+        font-size: 100px;
+        padding: 10px;
+        font-family:'Times New Roman', Times, serif;
+        margin-top: 10px;
+        border-radius: 40px 0px;
+        border: solid;
+        border-width: 2px 5px;
+        border-color: rgb(210, 1, 210);
+        box-shadow: 3px 3px 9px gray;
+    }
+
+    p{
+        display: inline-block;
+        background-color: rgb(249, 204, 249);
+        width: 230px;
+        height: 0 auto;
+        margin: 33px;
+        padding: 25px;
+        border: 5px outset rgb(215, 184, 245);
+        border-radius: 40px 0px;
+        text-align: center;
+        box-shadow: 3px 3px 9px gray;
+    }
+
+    .heading-lemon-muffins{
+        color: rgb(210, 1, 210);
+        background-color: rgb(250, 241, 250);
+        width: 700px;
+        margin: 0 auto;
+        text-align: center;
+        font-size: 100px;
+        padding: 10px;
+        font-family:'Times New Roman', Times, serif;
+        margin-top: 10px;
+        border-radius: 40px 0px;
+        border: solid;
+        border-width: 2px 5px;
+        border-color: rgb(210, 1, 210);
+        box-shadow: 3px 3px 9px gray;
+    }
 }
 
-p{
-    display: inline-block;
-    background-color: rgb(249, 204, 249);
-    width: 0 auto;
-    height: 0 auto;
-    margin: 33px;
-    padding: 25px;
-    border: 5px outset rgb(215, 184, 245);
-    border-radius: 40px 0px;
-    text-align: center;
-    box-shadow: 3px 3px 9px gray;
-}
+
+
+    
+    
+    
