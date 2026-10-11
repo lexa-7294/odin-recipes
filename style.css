@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(241, 210, 243);
+    background-color: rgb(249, 240, 250);
+
     .home-page-button{
         display: inline-block;
         padding: 10px;
@@ -8,6 +9,7 @@ body{
         border-width: 2px 5px;
         border-color: rgb(210, 1, 210);
         box-shadow: 3px 3px 9px gray;
+        
     }  
 
     .heading-recipe-pages{
@@ -27,14 +29,38 @@ body{
         box-shadow: 3px 3px 9px gray;
     }
 
-
-
-
-
-
-
     
-}
+    .container {
+        display: flex;
+        align-items: center;
+        padding: 50px;
+
+
+    }     
+
+    .recipe{
+        color: rgb(46, 45, 45);
+        font-family: 'Times New Roman', Times, serif;
+        padding-right: 50px;
+    }
+    img{
+        width: 250px;
+        height: auto;
+        border: double;
+        border-width: 5px;
+        border-color: rgb(210, 1, 210);
+        box-shadow: 3px 3px 9px gray;
+
+    }
+
+    a{ 
+        text-decoration: none;
+        color: rebeccapurple;
+    }
+        
+
+}   
+
 
 
 
@@ -43,8 +69,11 @@ body{
 
 
 .home-page{
+    display: flex;
+    flex-direction: column;
 
     .heading-container{
+        
         background-color: rgb(249, 204, 249);
         width: 1000px;
         height: 150px;
@@ -70,8 +99,9 @@ body{
         box-shadow: 3px 3px 9px gray;
     }
 
+    /* see below the alternative?
     p{
-        display: inline-block;
+        display: inline-flex;
         background-color: rgb(249, 204, 249);
         width: 230px;
         height: 0 auto;
@@ -81,6 +111,28 @@ body{
         border-radius: 40px 0px;
         text-align: center;
         box-shadow: 3px 3px 9px gray;
+       
+    } 
+    */
+
+    .list-container {
+        display: flex;
+            p{
+                text-align: center;
+                background-color: rgb(249, 204, 249);
+                width: 230px;
+                height: auto;
+                margin: 33px;
+                padding: 25px;
+                border: 5px outset rgb(215, 184, 245);
+                border-radius: 40px 0px;
+                box-shadow: 3px 3px 9px gray;
+
+            }
+    }
+
+    a{  text-decoration: none;
+        color: rebeccapurple;
     }
 
     .heading-lemon-muffins{
@@ -103,6 +155,8 @@ body{
 
 
 
-    
+
+
+
     
     
